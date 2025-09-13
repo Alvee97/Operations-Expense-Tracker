@@ -1,4 +1,3 @@
-# Operations-Expense-Tracker
 # Operations & Expense Tracking Tool
 
 A comprehensive Python-based system for tracking receipts and managing expense reports, designed to reduce manual effort and ensure greater accuracy in expense management.
